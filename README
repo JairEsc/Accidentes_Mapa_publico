@@ -1,0 +1,20 @@
+```markdown
+# Accidentes Vehiculares a Nivel Punto
+
+Este proyecto utiliza datos abiertos de [INEGI (2021-2023)](https://gaia.inegi.org.mx/mdm6/?v=bGF0OjIwLjA4NDIxLGxvbjotOTguNzc2ODUsejo4LGw6Y2x1c3Rlcl9hY2NpZGVudGVzfGNoZWF0bWFw).
+
+## Tecnologías Utilizadas
+
+- **Leaflet.js**: Para la visualización interactiva del mapa.
+- **Chart.js**: Para la representación gráfica de los datos.
+
+## Funcionalidades
+
+- **Sincronización de Datos**: 
+    - Un listener en el viewport de Leaflet actualiza las gráficas y estadísticas según los datos visibles en el mapa.
+    - Un listener en las categorías de Chart permite visualizar los datos seleccionados a nivel de punto en el mapa.
+
+## Enlace al Mapa Web
+
+Puedes explorar el mapa web en el siguiente enlace: [Accidentes Vehiculares - GitHub Pages](https://jairesc.github.io/Accidentes_Vehiculares/Interfaz.html)
+```
